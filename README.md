@@ -27,4 +27,7 @@ CREATE TABLE post(
     foreign key(userId) references user (id)
 )engine=InnoDB default charset=utf8;
 
+
 ```
+
+#### 뎃글은 하지 않음
